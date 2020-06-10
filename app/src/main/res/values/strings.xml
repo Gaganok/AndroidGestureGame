@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GestureProject</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="congratulation">Congratulations!!!</string>
+    <string name="back_to_menu">Back To Menu</string>
+    <string name="done">Done</string>
+    <string name="play">Play</string>
+    <string name="gesture_guess">Gesture Guess</string>
+    <string name="gesture_draw">Gesture Draw</string>
+    <string name="game_name">Game Name Here</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="example">A</string>
+</resources>
